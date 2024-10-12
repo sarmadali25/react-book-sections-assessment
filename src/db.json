@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "role": "Author"
+    },
+    {
+      "id": 2,
+      "email": "collaborator@example.com",
+      "password": "admin",
+      "role": "Collaborator"
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$92vnMZCz3RkuZxtdDEbmA.EJvoiVVqdLSkkDjLpUcq/R3b78azOje",
+      "role": "Author",
+      "id": 8
+    },
+    {
+      "email": "faizan@gmail.com",
+      "password": "$2a$10$l/fxwuRWlpcoQr7OMEWrbeEUB50L0SGln2eJ.NWMsZ6ZOiAPOMX3G",
+      "role": "Collaborator",
+      "id": 9
+    },
+    {
+      "email": "faizan.ah@corp.tkxel.com",
+      "password": "$2a$10$JX7Mc8SEyPcEm5LpW3KEa.xQe4iUtCOtyzA6XiKEqYjY53jUCfkZC",
+      "role": "Collaborator",
+      "id": 10
+    },
+    {
+      "email": "ali@test.com",
+      "password": "$2a$10$PiqK3P04WZXqnTKpa6GDNOt9JdVNyanMfR3dOn2PBcXzpeBMYr3ES",
+      "role": "Collaborator",
+      "id": 11
+    },
+    {
+      "email": "new@test.com",
+      "password": "$2a$10$ip9D6RDWTBamVVWhiDYBR.9BHs8dsxDlBpfArNcOtCOsBvuFQ2ud.",
+      "role": "Collaborator",
+      "id": 12
+    },
+    {
+      "email": "latest@test.com",
+      "password": "$2a$10$hBYUJGnazB6RREu7uVmQJOcJkHeGM73yWLHJt4tHNazwDfQXcHMya",
+      "role": "Collaborator",
+      "id": 13
+    }
+  ],
+  "sections": [
+    {
+      "sections": [
+        {
+          "title": "Programming Fundamentals",
+          "subsections": [
+            {
+              "title": "Introduction to programming",
+              "subsections": [
+                {
+                  "title": "C Programming Structure",
+                  "subsections": [
+                    {
+                      "title": "Variable & Identifiers",
+                      "subsections": [
+                        {
+                          "title": "Functional Programming",
+                          "subsections": [
+                            {
+                              "title": "File Handling",
+                              "subsections": [
+                                {
+                                  "title": "Database Management",
+                                  "subsections": []
+                                },
+                                {
+                                  "title": "Chapter Summary",
+                                  "subsections": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "sections": [],
+      "id": 2
+    },
+    {
+      "sections": [
+        {
+          "title": "Newew",
+          "subsections": [
+            {
+              "title": "dwedewdwe",
+              "subsections": [
+                {
+                  "title": "dwedwedwed",
+                  "subsections": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ]
+}
